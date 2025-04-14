@@ -1,0 +1,9 @@
+.progress-ring__circle {
+    transition: stroke-dashoffset 0.5s;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+}
+
+.criteria-card:hover {
+    transform: translateY(-5px);
+}
